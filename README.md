@@ -21,3 +21,5 @@ Zehazki hau da hitzez hitz Googleren oharrak dioena (2013-05-09):
 https://developers.google.com/maps/documentation/javascript/v2/
 
 Kode-biltegi honetan Euskal Herriko mapa Google maps-en gainean APIaren 3. bertsioarekin nola marraztu azaltzen duen adibide bat aurkituko duzu.
+
+Demo bat ikusteko klikatu [hemen](http://iametza.github.io/Google-Maps-v3-EH/).
